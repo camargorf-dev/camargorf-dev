@@ -20,15 +20,6 @@ Sou apaixonado por tecnologia e estou sempre em constante aprendizado, principal
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=camargorf-dev&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camargorf-dev&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="top languages"/>
-</p>
-
----
-
 ## 🌐 Conecte-se comigo
 
 <p align="left">
